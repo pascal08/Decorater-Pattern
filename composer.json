@@ -1,0 +1,15 @@
+{
+    "name": "pascal/decorator_demo",
+    "authors": [
+        {
+            "name": "Pascal Lubbers",
+            "email": "pascallubbers8@hotmail.com"
+        }
+    ],
+    "autoload": {
+    	"psr-4": {
+    		"Acme\\": "src/"
+    	}
+    },
+    "require": {}
+}
